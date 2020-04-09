@@ -1,0 +1,115 @@
+[{
+	"itemGroup" : [{
+	
+		"group" : [{ "groupName" : "그룹명"
+				}, {
+					"title" : "**",
+					"url" : "http://www.naver.com/",
+					"img" : "kap.png",
+					"flag" : 1
+				}, {
+					"title" : "**",
+					"url" : "http://www.naver.com/",
+					"img" : "confluence.png",
+					"flag" : 1
+				}, {
+					"title" : "**",
+					"url" : "http://www.naver.com/",
+					"img" : "dart.png",
+					"flag" : 1
+				}, {
+					"title" : "**",
+					"url" : "http://www.naver.com/",
+					"img" : "gitlab.png",
+					"flag" : 1
+				}, {
+					"title" : "**",
+					"url" : "http://www.naver.com/",
+					"img" : "kap.png",
+					"flag" : 1
+				}]
+		}, {
+		
+		"group" : [{ "groupName" : "그룹명2"
+				}, {
+					"title" : "**",
+					"url" : "http://www.naver.com/",
+					"img" : "kapels.png",
+					"flag" : 1
+				}, {
+					"title" : "**",
+					"url" : "http://www.naver.com/",
+					"img" : "esg.png",
+					"flag" : 1
+				}, {
+					"title" : "**",
+					"url" : "http://www.naver.com/",
+					"img" : "nmps.png",
+					"flag" : 1
+				}, {
+					"title" : "**",
+					"url" : "http://www.naver.com/",
+					"img" : "asiamarket.png",
+					"flag" : 1
+				}, {
+					"title" : "**",
+					"url" : "http://www.naver.com/",
+					"img" : "bmaster.jpg",
+					"flag" : 1
+				}]
+		}, {
+		
+		"group" : [{ "groupName" : "그룹명3"
+				}, {
+					"title" : "**",
+					"url" : "http://www.naver.com/",
+					"img" : "kapels.png",
+					"flag" : 1
+				}, {
+					"title" : "**",
+					"url" : "http://www.naver.com/",
+					"img" : "esg.png",
+					"flag" : 1
+				}, {
+					"title" : "**",
+					"url" : "http://www.naver.com/",
+					"img" : "bmaster.jpg",
+					"flag" : 1
+				}]
+		}, {
+		
+		"group" : [{ "groupName" : "관리자"
+				}, {
+					"title" : "**",
+					"url" : "http://www.naver.com/",
+					"img" : "cicdreport.png",
+					"flag" : 0
+				}, {
+					"title" : "**",
+					"url" : "http://www.naver.com/",
+					"img" : "jenkins.png",
+					"flag" : 0
+				}, {
+					"title" : "**",
+					"url" : "http://www.naver.com/",
+					"img" : "firewall.png",
+					"flag" : 0
+				}, {
+					"title" : "**",
+					"url" : "http://www.naver.com/",
+					"img" : "firewall.png",
+					"flag" : 0
+				}, {
+					"title" : "**",
+					"url" : "http://www.naver.com/",
+					"img" : "gradius.png",
+					"flag" : 0
+				}, {
+					"title" : "**",
+					"url" : "http://www.naver.com/",
+					"img" : "zabbix.png",
+					"flag" : 0
+				}
+				]
+		}]
+}]

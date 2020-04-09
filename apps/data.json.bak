@@ -1,0 +1,115 @@
+[{
+	"itemGroup" : [{
+	
+		"group" : [{ "groupName" : "KAP"
+				}, {
+					"title" : "KAP 홈페이지",
+					"url" : "http://www.koreaap.com/",
+					"img" : "kap.png",
+					"flag" : 1
+				}, {
+					"title" : "WIKI",
+					"url" : "http://10.10.11.212:18090/",
+					"img" : "confluence.png",
+					"flag" : 1
+				}, {
+					"title" : "DART",
+					"url" : "http://52.79.227.8:8889/dart/realtime/index",
+					"img" : "dart.png",
+					"flag" : 1
+				}, {
+					"title" : "GITLAP",
+					"url" : "http://10.10.11.212:9100",
+					"img" : "gitlab.png",
+					"flag" : 1
+				}, {
+					"title" : "KAP 홈페이지 (개발)",
+					"url" : "http://10.10.10.85:8090",
+					"img" : "kap.png",
+					"flag" : 1
+				}]
+		}, {
+		
+		"group" : [{ "groupName" : "대외서비스 (운영)"
+				}, {
+					"title" : "KAP-ELS INDEX",
+					"url" : "http://kapindex.koreaap.com/kapindex/login.do",
+					"img" : "kapels.png",
+					"flag" : 1
+				}, {
+					"title" : "ESG",
+					"url" : "http://esg.koreaap.com/login",
+					"img" : "esg.png",
+					"flag" : 1
+				}, {
+					"title" : "NMPS",
+					"url" : "http://211.119.234.175:30000/nmps/static/login.html",
+					"img" : "nmps.png",
+					"flag" : 1
+				}, {
+					"title" : "ASIAMARKET",
+					"url" : "http://asiamarket.koreaap.com/bpam/",
+					"img" : "asiamarket.png",
+					"flag" : 1
+				}, {
+					"title" : "BMASTER",
+					"url" : "http://bmaster.koreaap.com/",
+					"img" : "bmaster.jpg",
+					"flag" : 1
+				}]
+		}, {
+		
+		"group" : [{ "groupName" : "대외서비스 (개발)"
+				}, {
+					"title" : "KAP-ELS INDEX",
+					"url" : "http://10.10.10.85:10000/kapindex",
+					"img" : "kapels.png",
+					"flag" : 1
+				}, {
+					"title" : "ESG",
+					"url" : "http://10.10.10.85:8081",
+					"img" : "esg.png",
+					"flag" : 1
+				}, {
+					"title" : "BMASTER",
+					"url" : "http://10.10.10.85:20000",
+					"img" : "bmaster.jpg",
+					"flag" : 1
+				}]
+		}, {
+		
+		"group" : [{ "groupName" : "관리자"
+				}, {
+					"title" : "CICD-REPORT",
+					"url" : "http://10.10.10.85:8083/",
+					"img" : "cicdreport.png",
+					"flag" : 0
+				}, {
+					"title" : "JENKINS",
+					"url" : "http://10.10.11.212:9099/",
+					"img" : "jenkins.png",
+					"flag" : 0
+				}, {
+					"title" : "HQ F/W",
+					"url" : "http://211.119.234.194/",
+					"img" : "firewall.png",
+					"flag" : 0
+				}, {
+					"title" : "IDC F/W",
+					"url" : "http://211.233.42.105/",
+					"img" : "firewall.png",
+					"flag" : 0
+				}, {
+					"title" : "Gradius",
+					"url" : "http://10.10.10.21/gradius/",
+					"img" : "gradius.png",
+					"flag" : 0
+				}, {
+					"title" : "ZABBIX",
+					"url" : "http://10.10.10.97/zabbix/",
+					"img" : "zabbix.png",
+					"flag" : 0
+				}
+				]
+		}]
+}]
